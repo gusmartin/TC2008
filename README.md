@@ -5,5 +5,5 @@ Assignments:
 
 # Scheduler
 
-Implementation of the basic scehduling algorithms.
+Implementation of the basic scheduling algorithms.
 
